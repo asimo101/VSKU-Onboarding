@@ -1,2 +1,2 @@
 # VSKU_Onboarding
-To help create product mappings
+Compare images and group them, for easy master to channel product mapping, across channels.
